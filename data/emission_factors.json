@@ -1,0 +1,26 @@
+{
+  "transport": {
+    "car_petrol": 0.192,
+    "car_diesel": 0.171,
+    "bus": 0.105,
+    "train": 0.041,
+    "flight": 0.255
+  },
+  "electricity": {
+    "grid_avg": 0.82,
+    "solar": 0.05,
+    "wind": 0.011
+  },
+  "diet": {
+    "heavy_meat": 3.3,
+    "medium_meat": 2.5,
+    "low_meat": 1.9,
+    "vegetarian": 1.7,
+    "vegan": 1.5
+  },
+  "fuel": {
+    "lpg": 2.983,
+    "natural_gas": 2.03,
+    "coal": 2.42
+  }
+}
